@@ -200,6 +200,7 @@ def blacktheme():
 
 def batman():
     global cols,rows,cheat
+    #you can add a variable for black and white and can create multiple colour schemes without much change
     for i in range(rows*rows+3):
             button[i]['bg']='black'
             button[i]['fg']='white'
