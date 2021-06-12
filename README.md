@@ -1,6 +1,7 @@
 # MineSweeper-Clone
 MineSweeperClone Code
 This is the replica of Minesweeper game in python
+But its not just a copy there is so many custom features and easter eggs
 
 https://drive.google.com/file/d/1qC4CXIEQBUX7hpICxDlFA8o7B7hlQ37M/view?usp=sharing
 Windows 10 compatible exe file is there in the link
