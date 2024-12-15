@@ -9,7 +9,7 @@ Open it and extract it to get the exe file to see a demo.
 
 Some things you might not have done
 Did you try
-1.Closing after setting language to Malayalam/n
+1.Closing after setting language to Malayalam\n
 2.Clicking a bomb after explosion /n
 3.Flagging a bomb after explosion/n
 4.Activating thanos 2 times/n
